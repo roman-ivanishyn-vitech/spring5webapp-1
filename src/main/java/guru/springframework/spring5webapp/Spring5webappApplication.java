@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Spring5webappApplication {
 
 	public static void main(String[] args) {
-		// create new branch jpaEntities
 		SpringApplication.run(Spring5webappApplication.class, args);
 	}
 }
